@@ -113,11 +113,22 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ## How to use this guide
 
+### Duration
+It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/edit?usp=sharing) to estimate their end date. If you make a personal copy you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
+
 ### Order of the classes
 
 Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
 
 ![Topic Progression Graph](topic_progression_graph.jpg)
+
+### Track your progress
+
+1. Create an account in [Trello](https://trello.com/).
+1. Copy [this](https://trello.com/b/JpvLwQfr/ossu-data-science) board to your personal account.
+See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
+
+Now you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
 
 ### Which programming languages should I use?
 
@@ -140,9 +151,9 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 ## Community
 
-We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
+We have a discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
-Subscribe to our [newsletter](https://tinyletter.com/ossu).
+Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
